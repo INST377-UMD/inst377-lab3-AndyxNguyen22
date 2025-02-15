@@ -52,6 +52,9 @@ body {
     margin-right: 10px;
 }
 
-
+input#name:focus {
+    width: 500px;
 }
+
+
 
